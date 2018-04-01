@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588973229350",
+    "firebase_url": "https://popotoan-5b1ac.firebaseio.com",
+    "project_id": "popotoan-5b1ac",
+    "storage_bucket": "popotoan-5b1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588973229350:android:05b26c51e7c47797",
+        "android_client_info": {
+          "package_name": "android.lalita.com.idewaayulalitamarmika_1202154355_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588973229350-6iq3khubjmjurp9vp6egq3afqt04c8cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.lalita.com.idewaayulalitamarmika_1202154355_modul6",
+            "certificate_hash": "6be36df9d4a3be3281791604ac6ded8e6de13893"
+          }
+        },
+        {
+          "client_id": "588973229350-jpo39tnfndmhgpftsut58ab23el9q784.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8nCWkuC8J4lDYsU2GRjzxGS3ewpbAcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588973229350-jpo39tnfndmhgpftsut58ab23el9q784.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
